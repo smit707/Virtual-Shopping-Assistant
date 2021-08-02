@@ -1,0 +1,3 @@
+This is especially helpful when you have not narrowed down the criteria for the product. Its functions basically like an online automated assistant where you can ask any doubt.
+Here we are going to develop a model called Sequential Model. We will be using terminologies like intents, tags, dictionary. 
+Libraries which we will be using are numpy, pandas, nltk, tensorflow and keras.
