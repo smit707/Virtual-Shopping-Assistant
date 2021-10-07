@@ -1,0 +1,11 @@
+At 200 Epochs -  loss: 1.5127 - accuracy: 0.5920
+
+At 500 Epochs -  loss: 2.0553 - accuracy: 0.5564
+
+At 1000 Epochs - loss: 2.1506 - accuracy: 0.5508
+
+At 1000 Epochs - loss: 1.9272 - accuracy: 0.5503
+
+At 2000 Epochs - loss: 1.5974 - accuracy: 0.6100
+
+At 2500 Epochs - loss: 1.8101 - accuracy: 0.5896
